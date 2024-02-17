@@ -22,7 +22,7 @@ To use the Weather App, simply open the application in your web browser. You can
 
 # Installation
 
-There's no installation required for the Weather App. Simply clone the repository and open the index.html file in your web browser to use the application.
+There's no installation required for the Weather App. Simply clone the repository and open the index.html file in your web browser to use the application. Or use my Vercel Deployment Link [WeatherApp] (https://weather-app-livid-one.vercel.app/)
 
 # Credits
 
