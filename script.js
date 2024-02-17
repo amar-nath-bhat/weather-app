@@ -26,6 +26,7 @@ async function generateWeather(city) {
 document.addEventListener("DOMContentLoaded", function () {
   var addCity = document.getElementById("addCity");
   addCity.addEventListener("click", (e) => {
+    e.preventDefault();
     cityWeather(city.value);
   });
 });
